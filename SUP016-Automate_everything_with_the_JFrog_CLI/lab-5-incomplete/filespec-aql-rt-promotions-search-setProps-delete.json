@@ -1,0 +1,14 @@
+{
+    "files": [
+      {
+        "aql": {
+            "build.promotions.find": {}
+                ]
+        
+            }
+        },
+        "sortBy": ["created"],
+        "target": "${sdx-target-repo}"
+      }
+    ]
+  }

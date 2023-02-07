@@ -1,0 +1,16 @@
+{
+    "files": [
+      {
+        "aql": {
+            "builds.find": {}
+                        ]
+                    }
+                ]
+        
+            }
+        },
+        "sortBy": ["created"],
+        "target": "${sdx-target-repo}"
+      }
+    ]
+  }
